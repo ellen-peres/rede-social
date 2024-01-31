@@ -1,2 +1,2 @@
 # rede-social
- Site de di vulgação de redes sociais
+ Site de divulgação de redes sociais
