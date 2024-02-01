@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+img{
+    width: 93vw;
+   
+
+
+}
+a{
+    display: block;
+     background-color: darkblue;
+     color: white;
+     padding: 20px;
+     font-weight: bolder;
+     text-align: center;
+     text-decoration: none;
+}
+a:hover{
+    background-color: rgba(43, 43, 233, 0.753);
+}
